@@ -1,0 +1,14 @@
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\bin\Debug\net8.0\Lab8.exe
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\bin\Debug\net8.0\Lab8.deps.json
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\bin\Debug\net8.0\Lab8.runtimeconfig.json
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\bin\Debug\net8.0\Lab8.dll
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\bin\Debug\net8.0\Lab8.pdb
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfoInputs.cache
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfo.cs
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\Lab8.csproj.CoreCompileInputs.cache
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\Lab8.dll
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\refint\Lab8.dll
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\Lab8.pdb
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\Lab8.genruntimeconfig.cache
+D:\6sem_BSTU\KMZI\Lab8\Lab8\Lab8\obj\Debug\net8.0\ref\Lab8.dll

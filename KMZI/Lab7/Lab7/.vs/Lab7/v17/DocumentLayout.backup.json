@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6sem_BSTU\\KMZI\\Lab7\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D728B82-A854-4101-A631-7E52BE97B38E}|Lab7\\Lab7.csproj|d:\\6sem_bstu\\kmzi\\lab7\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D728B82-A854-4101-A631-7E52BE97B38E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D728B82-A854-4101-A631-7E52BE97B38E}|Lab7\\Lab7.csproj|d:\\6sem_bstu\\kmzi\\lab7\\lab7\\lab7\\iterativecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D728B82-A854-4101-A631-7E52BE97B38E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\iterativecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D728B82-A854-4101-A631-7E52BE97B38E}|Lab7\\Lab7.csproj|d:\\6sem_bstu\\kmzi\\lab7\\lab7\\lab7\\interleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D728B82-A854-4101-A631-7E52BE97B38E}|Lab7\\Lab7.csproj|solutionrelative:lab7\\interleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\KMZI\\Lab7\\Lab7\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "D:\\6sem_BSTU\\KMZI\\Lab7\\Lab7\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAAK4CAAAAAAAAAAAgwOsCAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:50:10.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IterativeCode.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\KMZI\\Lab7\\Lab7\\Lab7\\IterativeCode.cs",
+              "RelativeDocumentMoniker": "Lab7\\IterativeCode.cs",
+              "ToolTip": "D:\\6sem_BSTU\\KMZI\\Lab7\\Lab7\\Lab7\\IterativeCode.cs",
+              "RelativeToolTip": "Lab7\\IterativeCode.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:57:25.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interleaver.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\KMZI\\Lab7\\Lab7\\Lab7\\Interleaver.cs",
+              "RelativeDocumentMoniker": "Lab7\\Interleaver.cs",
+              "ToolTip": "D:\\6sem_BSTU\\KMZI\\Lab7\\Lab7\\Lab7\\Interleaver.cs",
+              "RelativeToolTip": "Lab7\\Interleaver.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:56:07.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

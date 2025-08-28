@@ -1,0 +1,14 @@
+D:\6sem_BSTU\KMZI\Lab6\Lab6\bin\Debug\net8.0\Lab6.exe
+D:\6sem_BSTU\KMZI\Lab6\Lab6\bin\Debug\net8.0\Lab6.deps.json
+D:\6sem_BSTU\KMZI\Lab6\Lab6\bin\Debug\net8.0\Lab6.runtimeconfig.json
+D:\6sem_BSTU\KMZI\Lab6\Lab6\bin\Debug\net8.0\Lab6.dll
+D:\6sem_BSTU\KMZI\Lab6\Lab6\bin\Debug\net8.0\Lab6.pdb
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfoInputs.cache
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\Lab6.AssemblyInfo.cs
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\Lab6.csproj.CoreCompileInputs.cache
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\Lab6.dll
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\refint\Lab6.dll
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\Lab6.pdb
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\Lab6.genruntimeconfig.cache
+D:\6sem_BSTU\KMZI\Lab6\Lab6\obj\Debug\net8.0\ref\Lab6.dll
