@@ -1,0 +1,22 @@
+﻿  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\6sem_BSTU\OKG\Lab10\Lab07\LibSurface.h(152,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\6sem_BSTU\OKG\Lab10\Lab07\LibSurface.h(155,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\6sem_BSTU\OKG\Lab10\Lab07\LibSurface.h(215,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\6sem_BSTU\OKG\Lab10\Lab07\LibSurface.h(218,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\6sem_BSTU\OKG\Lab10\Lab07\LibSurface.h(245,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\6sem_BSTU\OKG\Lab10\Lab07\LibSurface.h(248,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "main.cpp")
+  
+D:\6sem_BSTU\OKG\Lab10\Lab07\LibSurface.h(198,1): warning C4715: CPlot3D::GetNumberRegion: значение возвращается не при всех путях выполнения
+  Lab07.vcxproj -> D:\6sem_BSTU\OKG\Lab10\Debug\Lab07.exe
