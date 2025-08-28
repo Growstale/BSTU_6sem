@@ -1,0 +1,15 @@
+{
+    "port": 5555,
+    "serverIps": [
+      "127.0.0.1",
+      "127.0.0.2",
+      "127.0.0.3"
+    ],
+    "mediatorIp": "127.0.0.4",
+    "healthCheckInterval": 5000,
+    "healthCheckTimeout": 1500,
+    "electionTimeout": 2000,
+    "maxFailures": 3,
+    "coordinatorStatusFile": "./coordinator_status.json",
+    "mediatorCheckInterval": 3000
+  }

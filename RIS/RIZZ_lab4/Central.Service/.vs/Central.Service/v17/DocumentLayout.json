@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\services\\telemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\services\\telemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\services\\itelemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\services\\itelemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\models\\telemetrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\models\\telemetrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\services\\telemetrybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\services\\telemetrybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\controllers\\centraltelemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\controllers\\centraltelemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|d:\\6sem_bstu\\ris\\rizz_lab4\\central.service\\central.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FCDFC74-CA15-4DDF-806A-0EB2A051CF0B}|Central.Service\\Central.Service.csproj|solutionrelative:central.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITelemetryService.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Services\\ITelemetryService.cs",
+              "RelativeDocumentMoniker": "Central.Service\\Services\\ITelemetryService.cs",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Services\\ITelemetryService.cs",
+              "RelativeToolTip": "Central.Service\\Services\\ITelemetryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:17:20.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelemetryData.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Models\\TelemetryData.cs",
+              "RelativeDocumentMoniker": "Central.Service\\Models\\TelemetryData.cs",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Models\\TelemetryData.cs",
+              "RelativeToolTip": "Central.Service\\Models\\TelemetryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:16:38.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelemetryService.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Services\\TelemetryService.cs",
+              "RelativeDocumentMoniker": "Central.Service\\Services\\TelemetryService.cs",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Services\\TelemetryService.cs",
+              "RelativeToolTip": "Central.Service\\Services\\TelemetryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:17:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Central.Service\\appsettings.json",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\appsettings.json",
+              "RelativeToolTip": "Central.Service\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T20:02:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelemetryBackgroundService.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Services\\TelemetryBackgroundService.cs",
+              "RelativeDocumentMoniker": "Central.Service\\Services\\TelemetryBackgroundService.cs",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Services\\TelemetryBackgroundService.cs",
+              "RelativeToolTip": "Central.Service\\Services\\TelemetryBackgroundService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:28:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CentralTelemetryController.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Controllers\\CentralTelemetryController.cs",
+              "RelativeDocumentMoniker": "Central.Service\\Controllers\\CentralTelemetryController.cs",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Controllers\\CentralTelemetryController.cs",
+              "RelativeToolTip": "Central.Service\\Controllers\\CentralTelemetryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T21:18:33.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Central.Service\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Central.Service\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T20:09:28.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Central.Service\\Program.cs",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\RIZZ_lab4\\Central.Service\\Central.Service\\Program.cs",
+              "RelativeToolTip": "Central.Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:24:05.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

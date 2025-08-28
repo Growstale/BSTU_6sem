@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Source2.Service.Controllers.TelemetryController",
+    "Method": "GetTelemetry",
+    "RelativePath": "Telemetry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\SinchroServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\SinchroServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\EchoServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\EchoServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\DefineTableService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\DefineTableService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\EchoServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\EchoServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\TimeServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\TimeServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\RandServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\RandServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E681D7-F156-4FC8-B922-A2E5856360BC}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeServer.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\TimeServer.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\TimeServer.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\TimeServer.cpp",
+              "RelativeToolTip": "ServiceLibrary\\TimeServer.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T11:28:01.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\framework.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\framework.h",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\framework.h",
+              "RelativeToolTip": "ServiceLibrary\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T18:46:09.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\pch.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\pch.h",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\pch.h",
+              "RelativeToolTip": "ServiceLibrary\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T18:39:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\dllmain.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\dllmain.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\dllmain.cpp",
+              "RelativeToolTip": "ServiceLibrary\\dllmain.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:33:23.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EchoServer.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\EchoServer.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\EchoServer.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\EchoServer.cpp",
+              "RelativeToolTip": "ServiceLibrary\\EchoServer.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:41:54.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefineTableService.h",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\DefineTableService.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\DefineTableService.h",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\DefineTableService.h",
+              "RelativeToolTip": "ServiceLibrary\\DefineTableService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T18:39:01.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EchoServer.h",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\EchoServer.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\EchoServer.h",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\EchoServer.h",
+              "RelativeToolTip": "ServiceLibrary\\EchoServer.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T18:47:00.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinchroServer.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\SinchroServer.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\SinchroServer.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\SinchroServer.cpp",
+              "RelativeToolTip": "ServiceLibrary\\SinchroServer.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T18:30:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\pch.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\pch.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\pch.cpp",
+              "RelativeToolTip": "ServiceLibrary\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:39:16.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RandServer.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\RandServer.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\RandServer.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ServiceLibrary\\ServiceLibrary\\RandServer.cpp",
+              "RelativeToolTip": "ServiceLibrary\\RandServer.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T10:32:42.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

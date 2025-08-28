@@ -1,0 +1,5 @@
+﻿  ClientRIS.cpp
+D:\6sem_BSTU\RIS\lab8\ClientRIS\ClientRIS\ClientRIS.cpp(77,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\6sem_BSTU\RIS\lab8\ClientRIS\ClientRIS\ClientRIS.cpp(44,10): warning C4101: ip: неиспользованная локальная переменная
+D:\6sem_BSTU\RIS\lab8\ClientRIS\ClientRIS\ClientRIS.cpp(33,27): warning C4101: e: неиспользованная локальная переменная
+  ClientRIS.vcxproj -> D:\6sem_BSTU\RIS\lab8\ClientRIS\x64\Debug\ClientRIS.exe

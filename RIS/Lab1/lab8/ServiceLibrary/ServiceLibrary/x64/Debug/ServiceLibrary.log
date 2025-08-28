@@ -1,0 +1,24 @@
+﻿  pch.cpp
+  dllmain.cpp
+  EchoServer.cpp
+D:\6sem_BSTU\RIS\lab8\ServiceLibrary\ServiceLibrary\EchoServer.cpp(12,9): warning C4101: recv_len: неиспользованная локальная переменная
+  (компиляция исходного файла "/EchoServer.cpp")
+  
+  RandServer.cpp
+D:\6sem_BSTU\RIS\lab8\ServiceLibrary\ServiceLibrary\RandServer.cpp(12,9): warning C4101: recv_len: неиспользованная локальная переменная
+  (компиляция исходного файла "/RandServer.cpp")
+  
+  SinchroServer.cpp
+D:\6sem_BSTU\RIS\lab8\ServiceLibrary\ServiceLibrary\SinchroServer.cpp(42,56): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/SinchroServer.cpp")
+  
+D:\6sem_BSTU\RIS\lab8\ServiceLibrary\ServiceLibrary\SinchroServer.cpp(19,9): warning C4101: recv_len: неиспользованная локальная переменная
+  (компиляция исходного файла "/SinchroServer.cpp")
+  
+  TimeServer.cpp
+D:\6sem_BSTU\RIS\lab8\ServiceLibrary\ServiceLibrary\TimeServer.cpp(12,9): warning C4101: recv_len: неиспользованная локальная переменная
+  (компиляция исходного файла "/TimeServer.cpp")
+  
+  Создание кода...
+     Создается библиотека D:\6sem_BSTU\RIS\lab8\ServiceLibrary\x64\Debug\ServiceLibrary.lib и объект D:\6sem_BSTU\RIS\lab8\ServiceLibrary\x64\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> D:\6sem_BSTU\RIS\lab8\ServiceLibrary\x64\Debug\ServiceLibrary.dll

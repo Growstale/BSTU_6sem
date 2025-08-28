@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Central.Service.Controllers.CentralTelemetryController",
+    "Method": "GetAllTelemetry",
+    "RelativePath": "CentralTelemetry/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Central.Service.Controllers.CentralTelemetryController",
+    "Method": "GetSourcesStatus",
+    "RelativePath": "CentralTelemetry/sources/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

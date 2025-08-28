@@ -1,0 +1,4 @@
+﻿  Client_DFS.cpp
+D:\6sem_BSTU\RIS\Lab2\Client_DFS\Client_DFS\Client_DFS.cpp(50,5): warning C4101: s: неиспользованная локальная переменная
+D:\6sem_BSTU\RIS\Lab2\Client_DFS\Client_DFS\Client_DFS.cpp(55,5): warning C4101: ca: неиспользованная локальная переменная
+  Client_DFS.vcxproj -> D:\6sem_BSTU\RIS\Lab2\Client_DFS\x64\Debug\Client_DFS.exe

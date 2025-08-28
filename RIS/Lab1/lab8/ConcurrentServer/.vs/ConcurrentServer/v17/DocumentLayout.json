@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\AcceptServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\AcceptServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConcurrentServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\ConcurrentServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\DispatchServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\DispatchServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\DispatchServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\DispatchServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\GarbageCleaner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\GarbageCleaner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConcurrentServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\ConcurrentServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConsolePipe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A74A2BD-81BA-4B0E-B121-B5E4819D7A9B}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\ConsolePipe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DispatchServer.h",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\DispatchServer.h",
+              "RelativeDocumentMoniker": "ConcurrentServer\\DispatchServer.h",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\DispatchServer.h",
+              "RelativeToolTip": "ConcurrentServer\\DispatchServer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T18:54:22.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcceptServer.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\AcceptServer.cpp",
+              "RelativeDocumentMoniker": "ConcurrentServer\\AcceptServer.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\AcceptServer.cpp",
+              "RelativeToolTip": "ConcurrentServer\\AcceptServer.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T20:23:57.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcurrentServer.h",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConcurrentServer.h",
+              "RelativeDocumentMoniker": "ConcurrentServer\\ConcurrentServer.h",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConcurrentServer.h",
+              "RelativeToolTip": "ConcurrentServer\\ConcurrentServer.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T17:49:37.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DispatchServer.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\DispatchServer.cpp",
+              "RelativeDocumentMoniker": "ConcurrentServer\\DispatchServer.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\DispatchServer.cpp",
+              "RelativeToolTip": "ConcurrentServer\\DispatchServer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T16:58:19.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GarbageCleaner.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\GarbageCleaner.cpp",
+              "RelativeDocumentMoniker": "ConcurrentServer\\GarbageCleaner.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\GarbageCleaner.cpp",
+              "RelativeToolTip": "ConcurrentServer\\GarbageCleaner.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T12:49:48.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsolePipe.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConsolePipe.cpp",
+              "RelativeDocumentMoniker": "ConcurrentServer\\ConsolePipe.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConsolePipe.cpp",
+              "RelativeToolTip": "ConcurrentServer\\ConsolePipe.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T20:23:08.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcurrentServer.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConcurrentServer.cpp",
+              "RelativeDocumentMoniker": "ConcurrentServer\\ConcurrentServer.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\RIS\\lab8\\ConcurrentServer\\ConcurrentServer\\ConcurrentServer.cpp",
+              "RelativeToolTip": "ConcurrentServer\\ConcurrentServer.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T13:45:11.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
