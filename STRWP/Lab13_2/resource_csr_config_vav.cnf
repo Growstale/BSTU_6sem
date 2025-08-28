@@ -1,0 +1,19 @@
+[req]
+distinguished_name = req_distinguished_name
+req_extensions = v3_req
+prompt = no
+
+[req_distinguished_name]
+C = BY
+ST = Minsk
+L = Minsk
+O = BSUIR_Resource_VAV
+OU = WebServer_VAV
+CN = RS-LAB22-VAV
+
+[v3_req]
+subjectAltName = @alt_names
+[alt_names]
+DNS.1 = LAB22-VAV
+DNS.2 = VAV
+DNS.3 = localhost

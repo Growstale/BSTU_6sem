@@ -1,0 +1,14 @@
+{
+  "name": "m0603-growstale",
+  "version": "1.0.0",
+  "description": "m0603",
+  "main": "m0603.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m0603"
+  ],
+  "author": "growstale",
+  "license": "ISC"
+}

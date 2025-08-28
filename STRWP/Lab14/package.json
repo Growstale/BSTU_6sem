@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jsonrpc-server-http-nats": "^0.1.14"
+  }
+}

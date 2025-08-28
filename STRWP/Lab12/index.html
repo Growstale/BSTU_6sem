@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>18-01 API Сервер</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; }
+        h1, h2 { color: #333; }
+        code { background-color: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+    <h1>API Сервер (18-01)</h1>
+    <p>Этот сервер предоставляет RESTful API для управления данными об университете (факультеты, кафедры, аудитории и т.д.), хранящимися в базе данных VAV на сервере VODCHYTS.</p>
+    <p>Используйте инструменты типа Postman для взаимодействия с API.</p>
+
+    <h2>Доступные эндпоинты:</h2>
+
+    <h3>Факультеты (Faculties)</h3>
+    <ul>
+        <li><code>GET /api/faculties</code> - Получить все факультеты</li>
+        <li><code>POST /api/faculties</code> - Добавить новый факультет (JSON в теле: <code>{"FACULTY": "код", "FACULTY_NAME": "имя"}</code>)</li>
+        <li><code>PUT /api/faculties</code> - Обновить факультет (JSON в теле: <code>{"FACULTY": "код", "FACULTY_NAME": "новое_имя"}</code>)</li>
+        <li><code>DELETE /api/faculties/:facultyCode</code> - Удалить факультет по коду</li>
+    </ul>
+
+     <h3>Кафедры (Pulpits)</h3>
+    <ul>
+        <li><code>GET /api/pulpits</code> - Получить все кафедры</li>
+        <li><code>POST /api/pulpits</code> - Добавить новую кафедру (JSON: <code>{"PULPIT": "код", "PULPIT_NAME": "имя", "FACULTY": "код_факультета"}</code>)</li>
+        <li><code>PUT /api/pulpits</code> - Обновить кафедру (JSON: <code>{"PULPIT": "код", "PULPIT_NAME": "новое_имя", "FACULTY": "новый_код_факультета"}</code>)</li>
+        <li><code>DELETE /api/pulpits/:pulpitCode</code> - Удалить кафедру по коду</li>
+    </ul>
+
+     <h3>Дисциплины (Subjects)</h3>
+     <ul>
+        <li><code>GET /api/subjects</code> - Получить все дисциплины</li>
+        <li><code>POST /api/subjects</code> - Добавить новую дисциплину (JSON: <code>{"SUBJECT": "код", "SUBJECT_NAME": "имя", "PULPIT": "код_кафедры"}</code>)</li>
+        <li><code>PUT /api/subjects</code> - Обновить дисциплину (JSON: <code>{"SUBJECT": "код", "SUBJECT_NAME": "новое_имя", "PULPIT": "новый_код_кафедры"}</code>)</li>
+        <li><code>DELETE /api/subjects/:subjectCode</code> - Удалить дисциплину по коду</li>
+    </ul>
+
+     <h3>Типы Аудиторий (Auditorium Types)</h3>
+    <ul>
+        <li><code>GET /api/auditoriumstypes</code> - Получить все типы аудиторий</li>
+        <li><code>POST /api/auditoriumstypes</code> - Добавить новый тип (JSON: <code>{"AUDITORIUM_TYPE": "код", "AUDITORIUM_TYPENAME": "имя"}</code>)</li>
+        <li><code>PUT /api/auditoriumstypes</code> - Обновить тип (JSON: <code>{"AUDITORIUM_TYPE": "код", "AUDITORIUM_TYPENAME": "новое_имя"}</code>)</li>
+        <li><code>DELETE /api/auditoriumtypes/:typeCode</code> - Удалить тип по коду</li>
+    </ul>
+
+     <h3>Аудитории (Auditoriums)</h3>
+     <ul>
+        <li><code>GET /api/auditoriums</code> - Получить все аудитории</li>
+        <li><code>POST /api/auditoriums</code> - Добавить новую аудиторию (JSON: <code>{"AUDITORIUM": "код", "AUDITORIUM_NAME": "имя", "AUDITORIUM_CAPACITY": вместимость, "AUDITORIUM_TYPE": "код_типа"}</code>)</li>
+        <li><code>PUT /api/auditoriums</code> - Обновить аудиторию (JSON: <code>{"AUDITORIUM": "код", "AUDITORIUM_NAME": "новое_имя", "AUDITORIUM_CAPACITY": новая_вместимость, "AUDITORIUM_TYPE": "новый_код_типа"}</code>) <strong>(Исправлено с /auditorims)</strong></li>
+        <li><code>DELETE /api/auditoriums/:auditoriumCode</code> - Удалить аудиторию по коду <strong>(Исправлено с /auditorims)</strong></li>
+    </ul>
+
+    <p><em>Примечание: Примеры JSON в теле запроса могут потребовать указания всех обязательных полей согласно схеме БД.</em></p>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Client 10-01</title>
+    <style>
+        body { font-family: sans-serif; }
+        #messages { width: 90%; height: 300px; border: 1px solid #ccc; overflow-y: scroll; margin-top: 10px; padding: 5px; }
+        button { padding: 10px; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>WebSocket Client 10-01</h1>
+    <button id="startWS">startWS</button>
+    <div id="messages"></div>
+
+    <script>
+        const startButton = document.getElementById('startWS');
+        const messagesDiv = document.getElementById('messages');
+        let ws = null;
+        let messageInterval = null;
+        let clientMessageCounter = 0;
+        let connectionTimeout = null;
+        let isWsStarted = false; // Флаг для предотвращения многократного запуска
+
+        function logMessage(message) {
+            const p = document.createElement('p');
+            p.textContent = `[${new Date().toLocaleTimeString()}] ${message}`;
+            messagesDiv.appendChild(p);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+
+        function startWebSocket() {
+            if (isWsStarted) {
+                logMessage("WebSocket connection already started or in progress.");
+                return;
+            }
+            isWsStarted = true; // Устанавливаем флаг
+            startButton.disabled = true; // Деактивируем кнопку
+
+            ws = new WebSocket('ws://localhost:4000'); // Подключаемся к WS-серверу
+            clientMessageCounter = 0; 
+
+            ws.onopen = () => {
+                logMessage('WebSocket connection opened.');
+
+                messageInterval = setInterval(() => {
+                    clientMessageCounter++;
+                    const message = `10-01-client: ${clientMessageCounter}`;
+                    logMessage(`Sending: ${message}`);
+                    ws.send(message);
+                }, 3000);
+
+                connectionTimeout = setTimeout(() => {
+                    logMessage('Stopping client after 25 seconds.');
+                    stopWebSocket();
+                }, 25000);
+            };
+
+            ws.onmessage = (event) => {
+                logMessage(`Received: ${event.data}`);
+            };
+
+            ws.onerror = (error) => {
+                logMessage(`WebSocket Error: ${error.message || 'Unknown error'}`);
+                isWsStarted = false; 
+                startButton.disabled = false; 
+                cleanupResources();
+            };
+
+            ws.onclose = (event) => {
+                logMessage(`WebSocket connection closed. Code: ${event.code}, Reason: ${event.reason || 'No reason given'}`);
+                isWsStarted = false; 
+                startButton.disabled = false;
+                cleanupResources(); 
+            };
+        }
+
+        function stopWebSocket() {
+            if (ws) {
+                ws.close(1000, "Client decided to close connection after timeout"); 
+            }
+            cleanupResources();
+        }
+
+        function cleanupResources() {
+             if (messageInterval) {
+                clearInterval(messageInterval); 
+                messageInterval = null;
+            }
+            if (connectionTimeout) {
+                clearTimeout(connectionTimeout);
+                connectionTimeout = null;
+            }
+            startButton.disabled = false;
+            isWsStarted = false;
+            ws = null; 
+        }
+
+        startButton.addEventListener('click', startWebSocket);
+
+    </script>
+</body>
+</html>

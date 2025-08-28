@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+     <html>
+     <head>
+         <meta charset="UTF-8">
+         <title>Задание 02</title>
+     </head>
+     <body>
+         <h1>Демонстрация WASM функций</h1>
+         <p> sum(20, 7) = <span id="rsum"></span> </p>
+         <p> sub(20, 7) = <span id="rsub"></span> </p>
+         <p> mul(20, 7) = <span id="rmul"></span> </p>
+
+         <script>
+             async function loadAndRunWasm() {
+                 try {
+                     const response = await fetch('my_functions.wasm');
+                     if (!response.ok) {
+                         throw new Error(`HTTP error! status: ${response.status} when fetching wasm`);
+                     }
+
+                     /*
+                        Эта функция специально разработана для работы с потоками данных, такими как объект Response от fetch
+                        instantiateStreaming может начать компилировать и инстанцировать WASM-модуль по мере его загрузки по сети
+                        Ей не нужно ждать, пока весь .wasm файл будет загружен в память, чтобы начать компиляцию
+                    */
+                     const { module, instance } = await WebAssembly.instantiateStreaming(response, {
+                     });
+
+                     document.getElementById('rsum').textContent = instance.exports.sum(20, 7);
+                     document.getElementById('rsub').textContent = instance.exports.sub(20, 7);
+                     document.getElementById('rmul').textContent = instance.exports.mul(20, 7);
+
+                     console.log("WASM module loaded from server and functions executed.");
+                     console.log("sum(20,7) =", instance.exports.sum(20, 7));
+
+                 } catch (error) {
+                     console.error("Error loading or instantiating WASM module:", error);
+                     document.getElementById('rsum').textContent = "Error";
+                     document.getElementById('rsub').textContent = "Error";
+                     document.getElementById('rmul').textContent = "Error";
+                 }
+             }
+
+             loadAndRunWasm();
+         </script>
+     </body>
+     </html>

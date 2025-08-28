@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Статика Сервер 07-01</title>
+    <!-- 5.1. Запрос CSS -->
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>Демонстрация статического сервера</h1>
+
+    <!-- 5.3. Запрос PNG -->
+    <h2>Изображение:</h2>
+    <img src="/image.png" alt="Пример PNG" width="200">
+
+    <!-- 5.4. Запрос MP4 -->
+    <h2>Видео:</h2>
+    <video width="320" height="240" controls>
+        <source src="/video.mp4" type="video/mp4">
+        Ваш браузер не поддерживает тег video.
+    </video>
+
+    <!-- 5.5. Запрос DOCX -->
+    <h2>Документ:</h2>
+    <p><a href="/document.docx" download>Скачать документ DOCX</a></p>
+
+    <!-- 5.6. Запросы JSON и XML через Fetch -->
+    <h2>Данные (JSON):</h2>
+    <pre id="json-data">Загрузка...</pre>
+
+    <h2>Данные (XML):</h2>
+    <pre id="xml-data">Загрузка...</pre>
+
+    <!-- 5.2. Запрос JS -->
+    <script src="/script.js"></script>
+</body>
+</html>

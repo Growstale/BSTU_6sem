@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+     <meta charset="UTF-8">
+     <title>Задание 01</title>
+ </head>
+ <body>
+     <h1>Демонстрация WASM функций</h1>
+     <p> sum(10, 5) = <span id="rsum"></span> </p>
+     <p> sub(10, 5) = <span id="rsub"></span> </p>
+     <p> mul(10, 5) = <span id="rmul"></span> </p>
+
+     <script>
+
+        /*
+            // Функции, которые экспортировали в WASM при помощи WasmFiddle
+            
+            int sum(int x, int y) {
+            return x + y;
+            }
+
+            int mul(int x, int y) {
+            return x * y;
+            }
+
+            int sub(int x, int y) {
+            return x - y;
+            }
+
+         */
+
+         // WASM-код в виде массива байт
+         let wasmCode = new Uint8Array([0,97,115,109,1,0,0,0,0,15,8,100,121,108,105,110,107,46,48,1,4,0,0,0,0,1,10,2,96,2,127,127,1,127,96,0,0,3,5,4,1,0,0,0,7,39,4,17,95,95,119,97,115,109,95,99,97,108,108,95,99,116,111,114,115,0,0,3,115,117,109,0,1,3,115,117,98,0,2,3,109,117,108,0,3,10,29,4,3,0,1,11,7,0,32,0,32,1,106,11,7,0,32,0,32,1,107,11,7,0,32,0,32,1,108,11]);
+
+         let wasmImports = {};
+
+         async function initWasm() {
+             try {
+                 const wasmModule = await WebAssembly.compile(wasmCode);
+                 const wasmInstance = await WebAssembly.instantiate(wasmModule, wasmImports);
+
+                 document.getElementById('rsum').innerHTML = wasmInstance.exports.sum(10, 5);
+                 document.getElementById('rsub').innerHTML = wasmInstance.exports.sub(10, 5);
+                 document.getElementById('rmul').innerHTML = wasmInstance.exports.mul(10, 5);
+
+             } catch (error) {
+                 console.error("Error loading or instantiating WASM module:", error);
+                 document.getElementById('rsum').innerHTML = "Error";
+                 document.getElementById('rsub').innerHTML = "Error";
+                 document.getElementById('rmul').innerHTML = "Error";
+             }
+         }
+
+         initWasm();
+     </script>
+ </body>
+ </html>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <message>Привет из XML!</message>
+    <timestamp>2023-10-27T10:05:00Z</timestamp>
+    <items>
+        <item id="A">Значение A</item>
+        <item id="B">Значение B</item>
+    </items>
+</data>
