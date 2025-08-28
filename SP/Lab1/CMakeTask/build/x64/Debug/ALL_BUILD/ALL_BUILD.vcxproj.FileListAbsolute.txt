@@ -1,0 +1,1 @@
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\x64\Debug\ALL_BUILD\ALL_BUILD.vcxproj.AssemblyReference.cache

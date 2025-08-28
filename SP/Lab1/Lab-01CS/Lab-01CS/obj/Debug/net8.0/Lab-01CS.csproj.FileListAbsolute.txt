@@ -1,0 +1,14 @@
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\bin\Debug\net8.0\Lab-01CS.exe
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\bin\Debug\net8.0\Lab-01CS.deps.json
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\bin\Debug\net8.0\Lab-01CS.runtimeconfig.json
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\bin\Debug\net8.0\Lab-01CS.dll
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\bin\Debug\net8.0\Lab-01CS.pdb
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\Lab-01CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\Lab-01CS.AssemblyInfoInputs.cache
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\Lab-01CS.AssemblyInfo.cs
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\Lab-01CS.csproj.CoreCompileInputs.cache
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\Lab-01CS.dll
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\refint\Lab-01CS.dll
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\Lab-01CS.pdb
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\Lab-01CS.genruntimeconfig.cache
+D:\6sem_BSTU\SP\Lab1\Lab-01CS\Lab-01CS\obj\Debug\net8.0\ref\Lab-01CS.dll

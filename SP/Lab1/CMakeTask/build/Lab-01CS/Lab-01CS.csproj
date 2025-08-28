@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DA8C2632-17F0-3156-AA2E-A11836F12174}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>Lab-01CS</ProjectName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+    <ManagedAssembly>true</ManagedAssembly>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <OutputPath>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Debug\</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <PlatformToolset>ClangCL</PlatformToolset>
+    <AssemblyName>Lab-01CS</AssemblyName>
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Debug\Lab-01CS.exe</StartProgram>
+    <DebugType>full</DebugType>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <Optimize>false</Optimize>
+    <WarningLevel>3</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <OutputPath>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Release\</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <PlatformToolset>ClangCL</PlatformToolset>
+    <AssemblyName>Lab-01CS</AssemblyName>
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Release\Lab-01CS.exe</StartProgram>
+    <DebugType>none</DebugType>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>queue</ErrorReport>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <OutputPath>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\MinSizeRel\</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <PlatformToolset>ClangCL</PlatformToolset>
+    <AssemblyName>Lab-01CS</AssemblyName>
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\MinSizeRel\Lab-01CS.exe</StartProgram>
+    <DebugType>none</DebugType>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <OutputPath>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\RelWithDebInfo\</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <PlatformToolset>ClangCL</PlatformToolset>
+    <AssemblyName>Lab-01CS</AssemblyName>
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\6sem_BSTU\SP\Lab1\CMakeTask\build\RelWithDebInfo\Lab-01CS.exe</StartProgram>
+    <DebugType>full</DebugType>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.CSharp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.CSharp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemGroup>
+    <None Include="D:\6sem_BSTU\SP\Lab1\CMakeTask\Lab-01CS\CMakeLists.txt">
+      <Link>CMakeLists.txt</Link>
+    </None>
+  </ItemGroup>
+  <Target Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"
+    Name="CustomCommand_Debug_f4933e204ecac5b8e7bd0056a7946142"
+    Inputs="D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt;D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CMakeCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpCompiler.cmake.in;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpInformation.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCompilerIdDetection.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompilerId.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCompilerCommon.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CompilerId\VS-10.csproj.in"
+    Outputs="D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\CMakeFiles\generate.stamp">
+    <Exec Command="echo Building Custom Rule D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt" />
+    <Exec Command="setlocal&#10;&quot;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe&quot; -SD:/6sem_BSTU/SP/Lab1/CMakeTask -BD:/6sem_BSTU/SP/Lab1/CMakeTask/build --check-stamp-file D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01CS/CMakeFiles/generate.stamp&#10;if %errorlevel% neq 0 goto :cmEnd&#10;:cmEnd&#10;endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone&#10;:cmErrorLevel&#10;exit /b %1&#10;:cmDone&#10;if %errorlevel% neq 0 goto :VCEnd&#10;:VCEnd" />
+  </Target>
+  <Target Condition="'$(Configuration)|$(Platform)'=='Release|x64'"
+    Name="CustomCommand_Release_f4933e204ecac5b8e7bd0056a7946142"
+    Inputs="D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt;D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CMakeCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpCompiler.cmake.in;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpInformation.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCompilerIdDetection.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompilerId.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCompilerCommon.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CompilerId\VS-10.csproj.in"
+    Outputs="D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\CMakeFiles\generate.stamp">
+    <Exec Command="echo Building Custom Rule D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt" />
+    <Exec Command="setlocal&#10;&quot;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe&quot; -SD:/6sem_BSTU/SP/Lab1/CMakeTask -BD:/6sem_BSTU/SP/Lab1/CMakeTask/build --check-stamp-file D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01CS/CMakeFiles/generate.stamp&#10;if %errorlevel% neq 0 goto :cmEnd&#10;:cmEnd&#10;endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone&#10;:cmErrorLevel&#10;exit /b %1&#10;:cmDone&#10;if %errorlevel% neq 0 goto :VCEnd&#10;:VCEnd" />
+  </Target>
+  <Target Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'"
+    Name="CustomCommand_MinSizeRel_f4933e204ecac5b8e7bd0056a7946142"
+    Inputs="D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt;D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CMakeCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpCompiler.cmake.in;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpInformation.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCompilerIdDetection.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompilerId.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCompilerCommon.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CompilerId\VS-10.csproj.in"
+    Outputs="D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\CMakeFiles\generate.stamp">
+    <Exec Command="echo Building Custom Rule D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt" />
+    <Exec Command="setlocal&#10;&quot;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe&quot; -SD:/6sem_BSTU/SP/Lab1/CMakeTask -BD:/6sem_BSTU/SP/Lab1/CMakeTask/build --check-stamp-file D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01CS/CMakeFiles/generate.stamp&#10;if %errorlevel% neq 0 goto :cmEnd&#10;:cmEnd&#10;endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone&#10;:cmErrorLevel&#10;exit /b %1&#10;:cmDone&#10;if %errorlevel% neq 0 goto :VCEnd&#10;:VCEnd" />
+  </Target>
+  <Target Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'"
+    Name="CustomCommand_RelWithDebInfo_f4933e204ecac5b8e7bd0056a7946142"
+    Inputs="D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt;D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CMakeCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpCompiler.cmake.in;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCSharpInformation.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeCompilerIdDetection.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeDetermineCompilerId.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCSharpCompiler.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CMakeTestCompilerCommon.cmake;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.30\Modules\CompilerId\VS-10.csproj.in"
+    Outputs="D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\CMakeFiles\generate.stamp">
+    <Exec Command="echo Building Custom Rule D:/6sem_BSTU/SP/Lab1/CMakeTask/Lab-01CS/CMakeLists.txt" />
+    <Exec Command="setlocal&#10;&quot;D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe&quot; -SD:/6sem_BSTU/SP/Lab1/CMakeTask -BD:/6sem_BSTU/SP/Lab1/CMakeTask/build --check-stamp-file D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01CS/CMakeFiles/generate.stamp&#10;if %errorlevel% neq 0 goto :cmEnd&#10;:cmEnd&#10;endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone&#10;:cmErrorLevel&#10;exit /b %1&#10;:cmDone&#10;if %errorlevel% neq 0 goto :VCEnd&#10;:VCEnd" />
+  </Target>
+  <ItemGroup>
+    <Compile Include="D:\6sem_BSTU\SP\Lab1\CMakeTask\Lab-01CS\Lab-01CS\Program.cs">
+      <Link>Lab-01CS\Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\6sem_BSTU\SP\Lab1\CMakeTask\build\ZERO_CHECK.vcxproj">
+      <Project>{5ED34F5C-F912-3EAE-81FE-5957CDA103EA}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'MinSizeRel'">
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'RelWithDebInfo'">
+  </PropertyGroup>
+  <PropertyGroup>
+    <BuildDependsOn>
+      CustomCommand_Debug_f4933e204ecac5b8e7bd0056a7946142;
+      CustomCommand_MinSizeRel_f4933e204ecac5b8e7bd0056a7946142;
+      CustomCommand_RelWithDebInfo_f4933e204ecac5b8e7bd0056a7946142;
+      CustomCommand_Release_f4933e204ecac5b8e7bd0056a7946142;
+      $(BuildDependsOn)
+</BuildDependsOn>
+  </PropertyGroup>
+</Project>

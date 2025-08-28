@@ -1,0 +1,3 @@
+/home/growstale/CrossCompile/build/CMakeFiles/cross_compile_example.dir
+/home/growstale/CrossCompile/build/CMakeFiles/edit_cache.dir
+/home/growstale/CrossCompile/build/CMakeFiles/rebuild_cache.dir

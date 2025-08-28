@@ -1,0 +1,20 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\CMakeFiles",
+    "\\build\\CMakeFiles\\3.30.5-msvc23",
+    "\\Lab-01C",
+    "\\Lab-01CS",
+    "\\Lab-01CS\\Lab-01CS",
+    "\\Lab-01C\\Lab-01C"
+  ],
+  "SelectedNode": "\\build\\CMakeFiles\\3.30.5-msvc23\\VCTargetsPath.vcxproj",
+  "PreviewInSolutionExplorer": false
+}

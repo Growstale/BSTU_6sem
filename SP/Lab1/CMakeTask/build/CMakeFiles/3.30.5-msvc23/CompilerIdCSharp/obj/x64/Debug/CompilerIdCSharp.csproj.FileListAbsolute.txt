@@ -1,0 +1,6 @@
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.AssemblyReference.cache
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.CoreCompileInputs.cache
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.exe
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.pdb
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CompilerIdCSharp\CompilerIdCSharp.exe
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\CMakeFiles\3.30.5-msvc23\CompilerIdCSharp\CompilerIdCSharp.pdb

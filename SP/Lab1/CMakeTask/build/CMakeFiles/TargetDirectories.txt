@@ -1,0 +1,6 @@
+D:/6sem_BSTU/SP/Lab1/CMakeTask/build/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab1/CMakeTask/build/CMakeFiles/ZERO_CHECK.dir
+D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01C/CMakeFiles/Lab-01C.dir
+D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01C/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01CS/CMakeFiles/Lab-01CS.dir
+D:/6sem_BSTU/SP/Lab1/CMakeTask/build/Lab-01CS/CMakeFiles/ALL_BUILD.dir

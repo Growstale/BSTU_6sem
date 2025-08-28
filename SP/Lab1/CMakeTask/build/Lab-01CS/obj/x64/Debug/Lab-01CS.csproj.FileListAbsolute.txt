@@ -1,0 +1,6 @@
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Debug\Lab-01CS.exe
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Debug\Lab-01CS.pdb
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\obj\x64\Debug\Lab-01CS.csproj.AssemblyReference.cache
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\obj\x64\Debug\Lab-01CS.csproj.CoreCompileInputs.cache
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\obj\x64\Debug\Lab-01CS.exe
+D:\6sem_BSTU\SP\Lab1\CMakeTask\build\Lab-01CS\obj\x64\Debug\Lab-01CS.pdb

@@ -1,0 +1,3 @@
+/snap/cmake/1441/bin/cmake -E rm -f CMakeFiles/cross_compile_example.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/cross_compile_example.dir/objects.a @CMakeFiles/cross_compile_example.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-gcc -Wl,--whole-archive CMakeFiles/cross_compile_example.dir/objects.a -Wl,--no-whole-archive -o cross_compile_example.exe -Wl,--out-implib,libcross_compile_example.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cross_compile_example.dir/linkLibs.rsp

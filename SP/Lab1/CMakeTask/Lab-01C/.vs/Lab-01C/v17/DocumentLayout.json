@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6sem_BSTU\\SP\\Lab1\\CMakeTask\\Lab-01C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B32233-E56B-492C-BCBF-19C473253604}|Lab-01C\\Lab-01C.vcxproj|D:\\6sem_BSTU\\SP\\Lab1\\CMakeTask\\Lab-01C\\Lab-01C\\Lab-01C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B32233-E56B-492C-BCBF-19C473253604}|Lab-01C\\Lab-01C.vcxproj|solutionrelative:Lab-01C\\Lab-01C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-01C.cpp",
+              "DocumentMoniker": "D:\\6sem_BSTU\\SP\\Lab1\\CMakeTask\\Lab-01C\\Lab-01C\\Lab-01C.cpp",
+              "RelativeDocumentMoniker": "Lab-01C\\Lab-01C.cpp",
+              "ToolTip": "D:\\6sem_BSTU\\SP\\Lab1\\CMakeTask\\Lab-01C\\Lab-01C\\Lab-01C.cpp",
+              "RelativeToolTip": "Lab-01C\\Lab-01C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T14:19:38.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
