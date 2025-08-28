@@ -1,0 +1,342 @@
+[
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780088432,
+        "httpOnly": false,
+        "name": "ttcsid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1746392432017::lzooD6fbRZorcKY2oGVY.1.1746392432804"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780952432,
+        "httpOnly": false,
+        "name": "_ga_KBL22GMK8D",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS2.1.s1746392429$o1$g1$t1746392432$j57$l0$h1862390051"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1746394232,
+        "httpOnly": false,
+        "name": "sbjs_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "pgs%3D3%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.21vek.by%2F"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1754168433,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "fb.1.1746392431848.525197048959886555"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780088432,
+        "httpOnly": false,
+        "name": "_tt_enable_cookie",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1754168431,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1.1.1209261761.1746392431"
+    },
+    {
+        "domain": "www.21vek.by",
+        "expiry": 1746997232,
+        "httpOnly": false,
+        "name": "domain_sid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "gEnETgJGMkHqgYliKRbK8%3A1746392432028"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1775163632,
+        "httpOnly": false,
+        "name": "tmr_lvidTS",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1746392431076"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1775163632,
+        "httpOnly": false,
+        "name": "tmr_lvid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "453122a715912edc2d6309df9ce4443f"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1777950030,
+        "httpOnly": true,
+        "name": "refreshToken",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJjZjkwNDA4Zi1kMjljLTQxNDgtOWI5Yi03NjRiNjQwNzdjMWEiLCJzdWIiOiIxMzcxNzU4MSIsImFubyI6MCwiaWF0IjoxNzQ2MzkyNDMzLjc1MDY1MiwicHJlbWl1bSI6MCwicm9sZSI6InBlcnNvbmFsIiwiZXhwIjoxNzc3OTI4NDMzLjc1MDY1MiwidmVyIjowLjF9.jytCsoAswUS0cMFEX3bawkk8iY87GH9KDahAfvYgJLI"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780088432,
+        "httpOnly": false,
+        "name": "_ttp",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "01JTEHKFC825MPCASV353R2M0W_.tt.1"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1761944428,
+        "httpOnly": false,
+        "name": "sbjs_current_add",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "fd%3D2025-05-05%2000%3A00%3A28%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.21vek.by%2F%7C%7C%7Crf%3D%28none%29"
+    },
+    {
+        "domain": "www.21vek.by",
+        "expiry": 1746478830,
+        "httpOnly": false,
+        "name": "_qz_sess",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "deada959-8d74-494f-8c4b-36936d8321b7"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1777950030,
+        "httpOnly": true,
+        "name": "accessToken",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMzcxNzU4MSIsImFubyI6MCwiaWF0IjoxNzQ2MzkyNDMzLjc1MDY1MiwiZXhwIjoxNzQ2MzkzMDMzLjc1MDY1MiwidmVyIjowLjF9._dQ7Ge27ZojHrpBackX4QNwmoOk3FvhqNJKQ92owRbc"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780952433,
+        "httpOnly": true,
+        "name": "_rid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "26d34c24-6e2f-4fd7-80ab-fe6e0be24857"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780952429,
+        "httpOnly": false,
+        "name": "directCrm-session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22deviceGuid%22%3A%229006fe63-0847-41d7-b548-b9d64938b0bd%22%7D"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780952429,
+        "httpOnly": false,
+        "name": "mindboxDeviceUUID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "9006fe63-0847-41d7-b548-b9d64938b0bd"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780952433,
+        "httpOnly": false,
+        "name": "_rid_anm_id",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "26d34c24-6e2f-4fd7-80ab-fe6e0be24857"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780952432,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.1207267762.1746392429"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1746464429,
+        "httpOnly": false,
+        "name": "_ym_isad",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "2"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1777928429,
+        "httpOnly": false,
+        "name": "_ym_d",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1746392429"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780088433,
+        "httpOnly": false,
+        "name": "ttcsid_CRQ1VGRC77U5KN4TDKM0",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1746392432016::4tJ6-OXbcOUVza-IFHdf.1.1746392433145"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1746394232,
+        "httpOnly": false,
+        "name": "_ym_visorc",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "b"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1761944432,
+        "httpOnly": false,
+        "name": "sbjs_udata",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F136.0.0.0%20Safari%2F537.36"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1777928432,
+        "httpOnly": true,
+        "name": "Settings[u_source]",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "Q3FrZQ%3D%3D.BBIfFzcABhpBXwJGV0MfElkdUU0%3D"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1761944428,
+        "httpOnly": false,
+        "name": "sbjs_first_add",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "fd%3D2025-05-05%2000%3A00%3A28%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.21vek.by%2F%7C%7C%7Crf%3D%28none%29"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1761944428,
+        "httpOnly": false,
+        "name": "sbjs_migrations",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1418474375998%3D1"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1761944428,
+        "httpOnly": false,
+        "name": "sbjs_first",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1761944432,
+        "httpOnly": false,
+        "name": "sbjs_current",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Ctrm%3D%28none%29"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1761944432,
+        "httpOnly": false,
+        "name": "popmechanic_sbjs_migrations",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "popmechanic_1418474375998%3D1%7C%7C%7C1471519752600%3D1%7C%7C%7C1471519752605%3D1"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1777928429,
+        "httpOnly": false,
+        "name": "_ym_uid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1746392429942309971"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1777928429,
+        "httpOnly": false,
+        "name": "blueID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "c11f85f8-9c32-4b17-8bb3-5491db525aed"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1780952428,
+        "httpOnly": false,
+        "name": "Settings[userCity_]",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "Q3FrZQ%3D%3D.F0QCA2YACwQBGEZYR15LE1tAR1UCBQ5FfhgZFxoKFgERC0tNEG9GBFhVWElkZlwFAhkWNBBCXUQKb0YEWFUPOzEKHQEHdABYUUEIVR4RR00cA0ldZmZcBQIbRkZHDw%3D%3D"
+    },
+    {
+        "domain": ".21vek.by",
+        "expiry": 1747493551,
+        "httpOnly": false,
+        "name": "Settings[ft_split_group]",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1191"
+    }
+]
