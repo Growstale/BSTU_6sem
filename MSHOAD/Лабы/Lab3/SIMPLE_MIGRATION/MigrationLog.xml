@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<log>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'AddDepartment' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>AddDepartment</param>
+  <param>FailedSQL</param>
+  <param>AddDepartment, MD_STORED_PROGRAMS, 101151Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'AddEducation' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>AddEducation</param>
+  <param>FailedSQL</param>
+  <param>AddEducation, MD_STORED_PROGRAMS, 101251Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'AddEmployee' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>AddEmployee</param>
+  <param>FailedSQL</param>
+  <param>AddEmployee, MD_STORED_PROGRAMS, 101351Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'AddPosition' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>AddPosition</param>
+  <param>FailedSQL</param>
+  <param>AddPosition, MD_STORED_PROGRAMS, 101451Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'AddRank' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>AddRank</param>
+  <param>FailedSQL</param>
+  <param>AddRank, MD_STORED_PROGRAMS, 101551Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'AddVacationType' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>AddVacationType</param>
+  <param>FailedSQL</param>
+  <param>AddVacationType, MD_STORED_PROGRAMS, 101751Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'MoveEmployeeBranch' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>MoveEmployeeBranch</param>
+  <param>FailedSQL</param>
+  <param>MoveEmployeeBranch, MD_STORED_PROGRAMS, 102201Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'RecordBusinessTrip' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>RecordBusinessTrip</param>
+  <param>FailedSQL</param>
+  <param>RecordBusinessTrip, MD_STORED_PROGRAMS, 102401Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:12</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.generate.GenerateWorker</class>
+  <message>Stored Procedure 'RecordVacation' has language id of 'FailedSQL' so will not output for generation</message>
+  <key>Generate.PROCNOTCONVERTED</key>
+  <catalog>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</catalog>
+  <param>RecordVacation</param>
+  <param>FailedSQL</param>
+  <param>RecordVacation, MD_STORED_PROGRAMS, 102501Generate</param>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:14</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>SEVERE</level>
+  <class>oracle.dbtools.migration.workbench.core.logging.MigrationLogUtil</class>
+  <message>Generation phase
+Нарушение протокола: [ 39, ]</message>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.doInsert(PersistableObject.java:248)</param>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.save(PersistableObject.java:182)</param>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.saveAdditionalProperties(PersistableObject.java:273)</param>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.doUpdate(PersistableObject.java:368)</param>
+  <param>oracle.dbtools.metadata.persistence.PersistableObject.save(PersistableObject.java:186)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doGenerate(FullMigrateTask.java:1303)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doMaskBasedActions(FullMigrateTask.java:437)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doWork(FullMigrateTask.java:321)</param>
+  <param>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask.doWork(FullMigrateTask.java:154)</param>
+  <param>oracle.dbtools.raptor.backgroundTask.RaptorTask.call(RaptorTask.java:199)</param>
+  <param>java.util.concurrent.FutureTask.run(FutureTask.java:266)</param>
+  <param>oracle.dbtools.raptor.backgroundTask.RaptorTaskManager$RaptorFutureTask.run(RaptorTaskManager.java:702)</param>
+  <param>java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)</param>
+  <param>java.util.concurrent.FutureTask.run(FutureTask.java:266)</param>
+  <param>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)</param>
+  <param>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)</param>
+  <param>java.lang.Thread.run(Thread.java:748)</param>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@1e825512</param>
+  <exception>
+    <message>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask$FullMigrateTaskException: Generation phase
+Нарушение протокола: [ 39, ]</message>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>248</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>182</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>273</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>368</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.metadata.persistence.PersistableObject</class>
+      <line>186</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>1303</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>437</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>321</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+      <line>154</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.raptor.backgroundTask.RaptorTask</class>
+      <line>199</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.FutureTask</class>
+      <line>266</line>
+    </frame>
+    <frame>
+      <class>oracle.dbtools.raptor.backgroundTask.RaptorTaskManager$RaptorFutureTask</class>
+      <line>702</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.Executors$RunnableAdapter</class>
+      <line>511</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.FutureTask</class>
+      <line>266</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.ThreadPoolExecutor</class>
+      <line>1149</line>
+    </frame>
+    <frame>
+      <class>java.util.concurrent.ThreadPoolExecutor$Worker</class>
+      <line>624</line>
+    </frame>
+    <frame>
+      <class>java.lang.Thread</class>
+      <line>748</line>
+    </frame>
+  </exception>
+
+</record>
+<record>
+  <date>2025-02-24T23:31:14</date>
+  <logger>oracle.dbtools.migration.workbench.core.MigrationLogResourceBundle</logger>
+  <level>WARNING</level>
+  <class>oracle.dbtools.migration.workbench.core.ui.FullMigrateTask</class>
+  <message>Generated script run has failures: FAILED : Database Migration : FAILED</message>
+  <param>oracle.dbtools.migration.workbench.core.logging.LogInfo@68608dc3</param>
+
+</record>
+</log>

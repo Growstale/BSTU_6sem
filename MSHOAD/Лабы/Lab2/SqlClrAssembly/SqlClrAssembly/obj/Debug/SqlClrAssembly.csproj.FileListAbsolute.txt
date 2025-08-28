@@ -1,0 +1,6 @@
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\SqlClrAssembly\SqlClrAssembly\bin\Debug\SqlClrAssembly.dll
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\SqlClrAssembly\SqlClrAssembly\bin\Debug\SqlClrAssembly.pdb
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\SqlClrAssembly\SqlClrAssembly\obj\Debug\SqlClrAssembly.csproj.AssemblyReference.cache
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\SqlClrAssembly\SqlClrAssembly\obj\Debug\SqlClrAssembly.csproj.CoreCompileInputs.cache
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\SqlClrAssembly\SqlClrAssembly\obj\Debug\SqlClrAssembly.dll
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\SqlClrAssembly\SqlClrAssembly\obj\Debug\SqlClrAssembly.pdb

@@ -1,0 +1,7 @@
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\EmailTest\EmailTest\obj\Debug\EmailTest.csproj.AssemblyReference.cache
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\EmailTest\EmailTest\obj\Debug\EmailTest.csproj.CoreCompileInputs.cache
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\EmailTest\EmailTest\bin\Debug\EmailTest.exe.config
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\EmailTest\EmailTest\bin\Debug\EmailTest.exe
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\EmailTest\EmailTest\bin\Debug\EmailTest.pdb
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\EmailTest\EmailTest\obj\Debug\EmailTest.exe
+D:\6sem_BSTU\MSHOAD\Лабы\Lab2\EmailTest\EmailTest\obj\Debug\EmailTest.pdb
