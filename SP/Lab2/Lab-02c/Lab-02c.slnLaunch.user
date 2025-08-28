@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Lab-02c\\Lab-02c.vcxproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Lab-02c2\\Lab-02c2.vcxproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
