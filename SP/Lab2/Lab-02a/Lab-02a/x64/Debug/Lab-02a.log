@@ -1,0 +1,5 @@
+﻿  Lab-02a.c
+D:\6sem_BSTU\SP\Lab2\Lab-02a\Lab-02a\Lab-02a.c(20,124): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\6sem_BSTU\SP\Lab2\Lab-02a\Lab-02a\Lab-02a.c(20,124): warning C4024: CreateFileW: различные типы для формального и фактического параметров 6
+D:\6sem_BSTU\SP\Lab2\Lab-02a\Lab-02a\Lab-02a.c(18,11): warning C4101: bytesWritten: неиспользованная локальная переменная
+  Lab-02a.vcxproj -> D:\6sem_BSTU\SP\Lab2\Lab-02a\x64\Debug\Lab-02a.exe

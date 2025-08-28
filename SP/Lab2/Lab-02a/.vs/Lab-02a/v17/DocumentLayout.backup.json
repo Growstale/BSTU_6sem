@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6sem_BSTU\\SP\\Lab2\\Lab-02a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F21691-92F4-4D0B-ABA2-A8CBA0B4CC80}|Lab-02a\\Lab-02a.vcxproj|D:\\6sem_BSTU\\SP\\Lab2\\Lab-02a\\Lab-02a\\Lab-02a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07F21691-92F4-4D0B-ABA2-A8CBA0B4CC80}|Lab-02a\\Lab-02a.vcxproj|solutionrelative:Lab-02a\\Lab-02a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-02a.c",
+              "DocumentMoniker": "D:\\6sem_BSTU\\SP\\Lab2\\Lab-02a\\Lab-02a\\Lab-02a.c",
+              "RelativeDocumentMoniker": "Lab-02a\\Lab-02a.c",
+              "ToolTip": "D:\\6sem_BSTU\\SP\\Lab2\\Lab-02a\\Lab-02a\\Lab-02a.c",
+              "RelativeToolTip": "Lab-02a\\Lab-02a.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-27T18:19:50.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
