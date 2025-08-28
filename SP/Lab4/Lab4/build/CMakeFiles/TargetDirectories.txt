@@ -1,0 +1,10 @@
+D:/6sem_BSTU/SP/Lab4/Lab4/build/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/CMakeFiles/ZERO_CHECK.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleProxy/CMakeFiles/ComSampleProxy.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleProxy/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleServer/CMakeFiles/ComSampleServer.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleServer/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleService/CMakeFiles/ComSampleService.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleService/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleClient/CMakeFiles/Client.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleClient/CMakeFiles/ALL_BUILD.dir

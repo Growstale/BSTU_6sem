@@ -1,0 +1,14 @@
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleProxy/CMakeFiles/ComSampleProxy.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleProxy/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleProxy/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleServer/CMakeFiles/ComSampleServer.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleServer/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleServer/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleService/CMakeFiles/ComSampleService.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleService/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleService/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleClient/CMakeFiles/Client.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleClient/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleClient/CMakeFiles/rebuild_cache.dir

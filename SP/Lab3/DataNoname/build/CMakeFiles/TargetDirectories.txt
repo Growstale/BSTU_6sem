@@ -1,0 +1,4 @@
+D:/6sem_BSTU/SP/Lab3/DataNoname/build/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab3/DataNoname/build/CMakeFiles/ZERO_CHECK.dir
+D:/6sem_BSTU/SP/Lab3/DataNoname/build/Main/src/CMakeFiles/Main.dir
+D:/6sem_BSTU/SP/Lab3/DataNoname/build/MyDll/src/CMakeFiles/MyDll.dir

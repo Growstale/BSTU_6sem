@@ -1,0 +1,1 @@
+/usr/bin/clang -fPIC -shared -Wl,-soname,libLibVAVd.so -o ../../bin/libLibVAVd.so CMakeFiles/LibVAVd.dir/LibVAVd.c.o

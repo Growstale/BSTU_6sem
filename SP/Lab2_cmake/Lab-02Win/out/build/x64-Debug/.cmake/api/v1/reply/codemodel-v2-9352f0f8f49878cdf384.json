@@ -1,0 +1,214 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Lab-02a",
+					"jsonFile" : "directory-Lab-02a-Debug-e054eb231d65f9647e60.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Lab-02a",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Lab-02b",
+					"jsonFile" : "directory-Lab-02b-Debug-00d05ed4afb8556f4d16.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Lab-02b",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Lab-02c",
+					"childIndexes" : 
+					[
+						4,
+						5
+					],
+					"jsonFile" : "directory-Lab-02c-Debug-814da2a451d2b0b2f706.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Lab-02c"
+				},
+				{
+					"build" : "Lab-02c/Lab-02c",
+					"jsonFile" : "directory-Lab-02c.Lab-02c-Debug-6f105b3bedf05471fe67.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "Lab-02c/Lab-02c",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Lab-02c/Lab-02c2",
+					"jsonFile" : "directory-Lab-02c.Lab-02c2-Debug-76dcdd60020ecbab1583.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 4,
+					"source" : "Lab-02c/Lab-02c2",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab-02WIN"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Lab-02a",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Lab-02b",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						4
+					],
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "Lab-02c",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Lab-02c2",
+					"parentIndex" : 3,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Lab-02a::@5281b62e2951b4f0f8df",
+					"jsonFile" : "target-Lab-02a-Debug-0fb7602478895d4247bd.json",
+					"name" : "Lab-02a",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Lab-02b::@8487ace71d0ec96a6863",
+					"jsonFile" : "target-Lab-02b-Debug-1e7c1a6428135b87399a.json",
+					"name" : "Lab-02b",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Lab-02c::@f9e91660868f0610a37d",
+					"jsonFile" : "target-Lab-02c-Debug-2aca61b0f3995ed9ca1b.json",
+					"name" : "Lab-02c",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Lab-02c2::@3a5a1a8b237da8f07624",
+					"jsonFile" : "target-Lab-02c2-Debug-567d44c63270ed09af88.json",
+					"name" : "Lab-02c2",
+					"projectIndex" : 4
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug",
+		"source" : "D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

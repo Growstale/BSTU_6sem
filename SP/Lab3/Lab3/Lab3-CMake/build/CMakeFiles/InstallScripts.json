@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/growstale/Lab3/Lab3-CMake/build/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/VAVLib/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/VAVLib/src/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/Lab-03a/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/Lab-03a/src/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/LibVAVd/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/LibVAVd/src/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/Lab-03c/cmake_install.cmake",
+		"/home/growstale/Lab3/Lab3-CMake/build/Lab-03c/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

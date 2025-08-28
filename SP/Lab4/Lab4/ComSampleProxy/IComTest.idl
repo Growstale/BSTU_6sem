@@ -1,0 +1,25 @@
+import "oaidl.idl"; // стандартные определения IDL
+import "ocidl.idl"; 
+
+[
+    object,
+    uuid(db24e16f-aa47-4fae-83bb-9f18ebd1e9bc),
+    version(1.0),
+    helpstring("IComTest interface")
+]
+interface IComTest : IUnknown
+{
+    HRESULT WhoAmI([out] LPWSTR* pwszWhoAmI);
+};
+
+[
+    object,
+    uuid(704e2ec6-a123-4631-b2a7-6afb30d43a45),
+    version(1.0),
+    helpstring("IVAVTest interface")
+]
+interface IVAVTest : IUnknown
+{
+    HRESULT CalculateSumOfDigits([in] LONG lInputNumber, [out] LONG* plSumOfDigits);
+}
+

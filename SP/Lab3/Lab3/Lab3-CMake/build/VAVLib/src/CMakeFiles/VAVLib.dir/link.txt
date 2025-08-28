@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc ../../bin/libVAVLib.a CMakeFiles/VAVLib.dir/VAVLib.c.o
+/usr/bin/llvm-ranlib ../../bin/libVAVLib.a

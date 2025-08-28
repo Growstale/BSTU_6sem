@@ -1,3 +1,7 @@
 .vs
 .db
 SP/Lab2/Lab-02b/Lab-02b/file.txt
+SP/Lab2_cmake/Lab-02Win/build/Debug/text.txt
+SP/Lab2_cmake/Lab-02Win/Lab-02b/Lab-02b/text.txt
+SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Debug/text.txt
+SP/Lab2_cmake/Lab-02Win/Lab-02b/out/build/x64-Debug/Debug/text.txt

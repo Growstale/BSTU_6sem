@@ -1,0 +1,8 @@
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/CMakeFiles/ZERO_CHECK.dir
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/Lab-03a/src/CMakeFiles/Lab-03a.dir
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/VAVLib/src/CMakeFiles/VAVLib.dir
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/VAVDLib/src/CMakeFiles/VAVDLib.dir
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/VAVDLib++/src/CMakeFiles/VAVDLib++.dir
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/Lab-03b-Explicit/src/CMakeFiles/Lab-03b-Explicit.dir
+D:/6sem_BSTU/SP/Lab3/Lab3-CMake/build/Lab-03b-Implicit/src/CMakeFiles/Lab-03b-Implicit.dir

@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - -I../ComSampleProxy
+    - -I../ComSampleServer
+    - -I../ComSampleService
+    - -std=c++17

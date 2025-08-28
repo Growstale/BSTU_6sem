@@ -1,0 +1,10 @@
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/CMakeFiles/ZERO_CHECK.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02a/CMakeFiles/Lab-02a.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02a/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02b/CMakeFiles/Lab-02b.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02b/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02c/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02c/Lab-02c/CMakeFiles/Lab-02c.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02c/Lab-02c2/CMakeFiles/Lab-02c2.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/build/Lab-02c/Lab-02c2/CMakeFiles/ALL_BUILD.dir

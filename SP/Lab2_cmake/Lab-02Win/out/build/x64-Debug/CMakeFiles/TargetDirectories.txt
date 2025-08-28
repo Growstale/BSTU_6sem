@@ -1,0 +1,16 @@
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02a/CMakeFiles/Lab-02a.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02a/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02a/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02b/CMakeFiles/Lab-02b.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02b/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02b/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/Lab-02c/CMakeFiles/Lab-02c.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/Lab-02c/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/Lab-02c/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/Lab-02c2/CMakeFiles/Lab-02c2.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/Lab-02c2/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab2_cmake/Lab-02Win/out/build/x64-Debug/Lab-02c/Lab-02c2/CMakeFiles/rebuild_cache.dir

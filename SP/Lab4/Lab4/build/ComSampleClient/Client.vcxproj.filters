@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\6sem_BSTU\SP\Lab4\Lab4\ComSampleClient\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\6sem_BSTU\SP\Lab4\Lab4\build\ComSampleProxy\Generated\IComTest_i.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\6sem_BSTU\SP\Lab4\Lab4\ComSampleClient\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{042E5751-E49E-304A-AE98-E3CECD894478}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

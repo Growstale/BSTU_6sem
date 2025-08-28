@@ -1,0 +1,24 @@
+^D:\6SEM_BSTU\SP\LAB4\LAB4\BUILD\CMAKEFILES\A90C3F330C6389E0EF738EFD62EBADB4\ICOMTEST_I.C.RULE
+setlocal
+cd D:\6sem_BSTU\SP\Lab4\Lab4\build\ComSampleProxy\Generated
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+midl /header IComTest_h.h D:/6sem_BSTU/SP/Lab4/Lab4/ComSampleProxy/IComTest.idl
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\6SEM_BSTU\SP\LAB4\LAB4\COMSAMPLEPROXY\CMAKELISTS.TXT
+setlocal
+"D:\Microsoft Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/6sem_BSTU/SP/Lab4/Lab4 -BD:/6sem_BSTU/SP/Lab4/Lab4/build --check-stamp-file D:/6sem_BSTU/SP/Lab4/Lab4/build/ComSampleProxy/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

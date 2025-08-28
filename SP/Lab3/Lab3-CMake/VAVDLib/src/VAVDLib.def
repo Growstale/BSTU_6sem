@@ -1,0 +1,5 @@
+LIBRARY VAVDLib
+EXPORTS
+    iterative_binary_search = bsearch_vav @1       
+    bsearch_r_vav @2 
+    array @3

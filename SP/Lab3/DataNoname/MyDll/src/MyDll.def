@@ -1,0 +1,3 @@
+LIBRARY MyDll
+EXPORTS
+	sharedDataVariable   DATA   @1   NONAME

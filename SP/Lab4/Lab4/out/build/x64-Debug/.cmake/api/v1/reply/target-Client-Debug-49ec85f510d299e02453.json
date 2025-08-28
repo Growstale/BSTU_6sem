@@ -1,0 +1,183 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Client.exe"
+		},
+		{
+			"path" : "Client.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_dependencies",
+			"include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"ComSampleClient/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "D:/6sem_BSTU/SP/Lab4/Lab4/ComSampleClient/../ComSampleService"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/6sem_BSTU/SP/Lab4/Lab4/ComSampleClient/../ComSampleServer"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleProxy/Generated"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "D:/6sem_BSTU/SP/Lab4/Lab4/ComSampleClient/../ComSampleService"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/6sem_BSTU/SP/Lab4/Lab4/ComSampleClient/../ComSampleServer"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug/ComSampleProxy/Generated"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "ComSampleProxy::@00762ec95405d8060222"
+		}
+	],
+	"id" : "Client::@1b5c706d2274dd6e9119",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Client",
+	"nameOnDisk" : "Client.exe",
+	"paths" : 
+	{
+		"build" : "ComSampleClient",
+		"source" : "ComSampleClient"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ComSampleClient/Main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 1,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/ComSampleProxy/Generated/IComTest_i.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

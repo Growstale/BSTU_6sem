@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "DemoService",
+					"jsonFile" : "directory-DemoService-Debug-6e4c9cd41d697373e5ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "DemoService",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "ServiceCtl",
+					"jsonFile" : "directory-ServiceCtl-Debug-f2b00b98782932e8ed78.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "ServiceCtl",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab5Services"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "DemoService",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "ServiceCtl",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "DemoService::@8042db46e1cdfbb73fc1",
+					"jsonFile" : "target-DemoService-Debug-09da502a51aa4afc4f5f.json",
+					"name" : "DemoService",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ServiceCtl::@b1b629bd8680598b0d4e",
+					"jsonFile" : "target-ServiceCtl-Debug-df1b438cac4f12de0cfe.json",
+					"name" : "ServiceCtl",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug",
+		"source" : "D:/6sem_BSTU/SP/Lab5/lab5_services"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

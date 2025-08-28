@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ComSampleProxy",
+					"jsonFile" : "directory-ComSampleProxy-Debug-8f4d3405f86ddfb5a7ee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "ComSampleProxy",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "ComSampleServer",
+					"jsonFile" : "directory-ComSampleServer-Debug-99d902b5601d1ef1f982.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "ComSampleServer",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "ComSampleService",
+					"jsonFile" : "directory-ComSampleService-Debug-6f83645074159f1cbe03.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "ComSampleService",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "ComSampleClient",
+					"jsonFile" : "directory-ComSampleClient-Debug-a9086a400c38e5e97ab7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "ComSampleClient",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "COM"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "ComSampleProxy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "ComSampleServer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "ComSampleService",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "ComSampleClient",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "Client::@1b5c706d2274dd6e9119",
+					"jsonFile" : "target-Client-Debug-49ec85f510d299e02453.json",
+					"name" : "Client",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ComSampleProxy::@00762ec95405d8060222",
+					"jsonFile" : "target-ComSampleProxy-Debug-348609f521eac606ebd6.json",
+					"name" : "ComSampleProxy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ComSampleServer::@ef2d3e79c366fd8440a6",
+					"jsonFile" : "target-ComSampleServer-Debug-60fc69926f67a26ec49c.json",
+					"name" : "ComSampleServer",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ComSampleService::@a66caf5e02810630a21c",
+					"jsonFile" : "target-ComSampleService-Debug-4dae15f0619506cb02e5.json",
+					"name" : "ComSampleService",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/6sem_BSTU/SP/Lab4/Lab4/out/build/x64-Debug",
+		"source" : "D:/6sem_BSTU/SP/Lab4/Lab4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

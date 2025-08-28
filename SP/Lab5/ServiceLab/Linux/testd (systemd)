@@ -1,0 +1,10 @@
+[Unit]
+Description=Example daemon
+
+[Service]
+Type=exec
+ExecStart=/usr/sbin/testd
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,1 @@
+/usr/bin/clang "CMakeFiles/Lab-03a.dir/Lab-03a.c.o" -o ../../bin/Lab-03a  ../../bin/libVAVLib.a

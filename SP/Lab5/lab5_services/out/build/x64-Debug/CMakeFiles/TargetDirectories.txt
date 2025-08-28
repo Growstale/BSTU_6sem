@@ -1,0 +1,8 @@
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/DemoService/CMakeFiles/DemoService.dir
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/DemoService/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/DemoService/CMakeFiles/rebuild_cache.dir
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/ServiceCtl/CMakeFiles/ServiceCtl.dir
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/ServiceCtl/CMakeFiles/edit_cache.dir
+D:/6sem_BSTU/SP/Lab5/lab5_services/out/build/x64-Debug/ServiceCtl/CMakeFiles/rebuild_cache.dir
