@@ -1,0 +1,4 @@
+D:/6sem_BSTU/SP/lab5_services/build/CMakeFiles/DemoService.dir
+D:/6sem_BSTU/SP/lab5_services/build/CMakeFiles/ServiceCtl.dir
+D:/6sem_BSTU/SP/lab5_services/build/CMakeFiles/ALL_BUILD.dir
+D:/6sem_BSTU/SP/lab5_services/build/CMakeFiles/ZERO_CHECK.dir

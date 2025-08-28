@@ -1,0 +1,13 @@
+﻿  xcpt4cxx.cpp
+D:\6sem_BSTU\SP\Lab6\windows_seh_tests-main\src\xcpt4\xcpt4cxx.cpp(121,14): warning C4611: взаимодействие между "_setjmpex" и деструктором объектов C++ не будет переносимым
+  xcpt4ex.c
+  xcpt4pg.c
+  xcpt4u.c
+D:\6sem_BSTU\SP\Lab6\windows_seh_tests-main\src\xcpt4\xcpt4u.c(2014,30): warning C4389: ==: несоответствие типов со знаком и без знака
+D:\6sem_BSTU\SP\Lab6\windows_seh_tests-main\src\xcpt4\xcpt4u.c(2348,22): warning C4057: функция: "unsigned int *" отличается от "int *" по косвенному обращению к слегка разным базовым типам
+D:\6sem_BSTU\SP\Lab6\windows_seh_tests-main\src\xcpt4\xcpt4u.c(2350,22): warning C4057: функция: "unsigned int *" отличается от "int *" по косвенному обращению к слегка разным базовым типам
+D:\6sem_BSTU\SP\Lab6\windows_seh_tests-main\src\xcpt4\xcpt4u.c(2374,22): warning C4057: функция: "unsigned int *" отличается от "int *" по косвенному обращению к слегка разным базовым типам
+D:\6sem_BSTU\SP\Lab6\windows_seh_tests-main\src\xcpt4\xcpt4u.c(357,29): warning C4100: argv: неиспользованный формальный параметр
+D:\6sem_BSTU\SP\Lab6\windows_seh_tests-main\src\xcpt4\xcpt4u.c(356,14): warning C4100: argc: неиспользованный формальный параметр
+  Создание кода...
+  Lab6.vcxproj -> D:\6sem_BSTU\SP\Lab6\Lab6\x64\Debug\xcpt4.exe
